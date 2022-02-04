@@ -1,1 +1,1 @@
-# mysql_on_kubernrtrs
+# mysql_on_kubernetes
