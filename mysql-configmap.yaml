@@ -9,3 +9,4 @@ metadata:
 data:
   host: db
   port: "8080"
+
